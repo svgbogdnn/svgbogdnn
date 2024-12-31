@@ -12,12 +12,25 @@ ML, DS
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
-**🖥️ ML/DL**:
+**🖥️ ML/DS**:
 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
+- [![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/)
+- [![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+- [![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+- [![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+- [![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)](https://numpy.org/)
+- [![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&logoColor=white)](https://matplotlib.org/)
+- [![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?logo=plotly&logoColor=white)](https://plotly.com/)
+- [![CatBoost](https://img.shields.io/badge/-CatBoost-FF6F00)](https://catboost.ai/)
+- [![XGBoost](https://img.shields.io/badge/-XGBoost-FF4C00)](https://xgboost.readthedocs.io/)
+- [![LightGBM](https://img.shields.io/badge/-LightGBM-9DD6FF)](https://lightgbm.readthedocs.io/)
+- [![Loguru](https://img.shields.io/badge/-Loguru-000000)](https://loguru.readthedocs.io/)
+- [![Seaborn](https://img.shields.io/badge/-Seaborn-9F00FF)](https://seaborn.pydata.org/)
+- [![DVC](https://img.shields.io/badge/-DVC-945DD6)](https://dvc.org/)
+- [![MLflow](https://img.shields.io/badge/-MLflow-0194E2)](https://mlflow.org/)
+
+
 
 **📚 Frameworks**:
 
