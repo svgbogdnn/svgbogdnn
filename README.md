@@ -38,17 +38,13 @@ ML, DS
 
 **📚 Frameworks**:
 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)  
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)  
+![Pillow](https://img.shields.io/badge/-Pillow-0000FF?logo=pillow&logoColor=white)  
+![Asyncio](https://img.shields.io/badge/-Asyncio-008080?logo=python&logoColor=white)  
+![Aiohttp](https://img.shields.io/badge/-Aiohttp-2C8EBB?logo=aiohttp&logoColor=white)  
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-FF5733?logo=python&logoColor=white)
 
-**💻 IDEs**:
 
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
-![GoLand](https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
-![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
+
